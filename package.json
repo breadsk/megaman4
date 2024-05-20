@@ -1,0 +1,22 @@
+{
+  "name": "megaman-robot-masters",
+  "version": "0.0.2",
+  "description": "Robot Masters API for Megaman/Rockman series",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/breadsk/megaman4"
+  },  
+  "scripts": {
+      "start": "node server.js"
+  },
+  "keywords": [
+    "Megaman",
+    "Rockman",    
+    "robotmasters"
+  ],
+  "author": "Nicolas Caceres",
+  "license": "None",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
